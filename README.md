@@ -81,3 +81,4 @@ https://github.com/raspberrypi/pico-sdk
 - [Gabriel Silva Sampaio]
 
 
+demonstração:https://www.dropbox.com/scl/fi/n01qaq3quxv85by6qgdmd/VID_20250218_224615.mp4?rlkey=r8b0e3fpo4v147wzd1bev0x3s&st=r3dnvkdn&dl=0
