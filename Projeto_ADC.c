@@ -1,19 +1,3 @@
-/**
- * Exemplo de Projeto - BitDogLab + Joystick + 2 LEDs PWM + LED Verde + Botões + Display SSD1306
- *
- * Requisitos atendidos:
- *   1) Uso de ADC no RP2040 para ler joystick (VRX, VRY).
- *   2) Controle via PWM dos LEDs Vermelho e Azul com base no eixo X e Y do joystick.
- *   3) LED Verde togglado pelo botão do joystick (com IRQ + debounce).
- *   4) Botão A para ativar/desativar PWM (IRQ + debounce).
- *   5) Movimentar um quadrado 8x8 no display SSD1306 conforme joystick.
- *   6) Alternar borda do display (diferentes estilos) a cada clique do joystick.
- *   7) Código comentado e estruturado.
- *   8) I2C via GPIO14 (SDA) e GPIO15 (SCL).
- *
- * Autor: [Seu Nome]
- * Data: [Data de desenvolvimento]
- */
 
  #include <stdio.h>
  #include <stdlib.h>
